@@ -1,0 +1,50 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{230B094A-C22B-4A09-9EB6-EF494D795826}|https">
+  <MonoDevelop.Ide.ItemProperties.Vidly PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vidly/Program.cs">
+    <Files>
+      <File FileName="Vidly/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="Vidly/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Vidly/Views/Shared/_Layout.cshtml" />
+      <File FileName="Vidly/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Vidly/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Vidly/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Vidly/Views/Home/Privacy.cshtml" />
+      <File FileName="Vidly/Views/_ViewImports.cshtml" />
+      <File FileName="Vidly/Views/_ViewStart.cshtml" />
+      <File FileName="Vidly/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Vidly/Views/Shared/Error.cshtml" />
+      <File FileName="Vidly/appsettings.json" Line="10" Column="34" />
+      <File FileName="Vidly/Program.cs" Line="10" Column="2" />
+      <File FileName="Vidly/appsettings.Development.json" />
+      <File FileName="Vidly/wwwroot/css/site.css" />
+      <File FileName="Vidly/Data/ApplicationDbContext.cs" Line="8" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vidly" expanded="True">
+            <Node name="Vidly">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
