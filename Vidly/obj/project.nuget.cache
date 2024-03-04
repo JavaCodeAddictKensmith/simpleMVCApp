@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q9LkltzzrCL1XYO5u1Pyx7WbRu210AjIWdTaj1aZjP8wQdZj+u9M/74nIs6D4uraylfTo6aUIKFWp9QBlMNj7Q==",
+  "dgSpecHash": "REXEBcT8szs4TUE+bCLOM1XZSOM0+g664C3nrPacq9ndLY5ubuX2Vp3wNW5v0qjdg2suXz8a6aZJcg0PQg01TA==",
   "success": true,
   "projectFilePath": "/Users/mac/Documents/Vidly/Vidly/Vidly.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,8 @@
     "/Users/MAC/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/MAC/.nuget/packages/npgsql/7.0.0/npgsql.7.0.0.nupkg.sha512",
+    "/Users/MAC/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.0/npgsql.entityframeworkcore.postgresql.7.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.configuration.configurationmanager/5.0.0/system.configuration.configurationmanager.5.0.0.nupkg.sha512",
@@ -59,6 +61,7 @@
     "/Users/MAC/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.runtime.caching/5.0.0/system.runtime.caching.5.0.0.nupkg.sha512",
+    "/Users/MAC/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.security.cryptography.cng/5.0.0/system.security.cryptography.cng.5.0.0.nupkg.sha512",
     "/Users/MAC/.nuget/packages/system.security.cryptography.protecteddata/5.0.0/system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
